@@ -93,6 +93,4 @@ ipconfig
   les nombreuses interfaces VMware/VirtualBox
 
 ## Conclusion
-Lab réalisé avec succès. Le trafic HTTP a été capturé
-et analysé via Burp Suite. La prochaine étape est le
-Lab 15 pour le bypass du SSL Pinning.
+Lab réalisé avec succès.
